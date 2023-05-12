@@ -1,0 +1,24 @@
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\ASUS\source\repos\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Ahmed smiai\Desktop\SolutionExamen\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
